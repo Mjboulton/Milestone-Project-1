@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
+/*---------header-----------*/
+
 .header {
     padding: 5px;
 }
@@ -33,6 +35,8 @@
     padding: 0px;
     
 }
+
+/*------------footer-------------*/
 
 footer {
     background-color: #ED5CAE;
@@ -70,3 +74,12 @@ footer {
 #footer-details {
     padding: 20px;
 }
+
+/*-------------About us--------------*/
+
+.about-row {
+    text-align: center;
+    line-height: 2;
+    
+}
+
